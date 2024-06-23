@@ -95,3 +95,9 @@ h1{
 .hide{
   display: none;
 }
+p{
+  color:white;
+  font-size: 2px;
+  margin-left: 170px;
+  margin-top: 80px;
+}
